@@ -4,4 +4,4 @@
 
 # Connect the LED to GPIO pin 12 and then run the application.
 
-# By using motion library you can do live video streaming
+# By installing motion library on pi4 you can do live video streaming.
