@@ -8,3 +8,5 @@ https://twitter.com/ashishrana08
 ### Connect the LED to GPIO pin 12 and then run the application.
 
 ### By installing motion library on pi4 you can do live video streaming.
+
+![](https://github.com/ashishrana080699/Django-App-to-Access-Raspberrypi/blob/master/Screenshot.png)
