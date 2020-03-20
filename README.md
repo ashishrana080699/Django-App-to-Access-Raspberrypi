@@ -1,3 +1,6 @@
+## follow me on twitter to get latest updates.
+https://twitter.com/ashishrana08
+
 # Django-App-to-Access-Raspberrypi
 
 ### This app is developed to remotely control the Raspberrypi 4.
